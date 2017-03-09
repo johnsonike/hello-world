@@ -1,2 +1,5 @@
 # hello-world
-new and first test repository
+
+Hi Humans,
+
+Ike here.  I am writing my first bit of code.
